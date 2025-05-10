@@ -48,12 +48,7 @@ Here are some ideas to get you started:
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
-<!--   <a href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  </a> -->
-  <a href="https://www.json.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" width="40" height="40"/>
-  </a>
+
 
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/>
